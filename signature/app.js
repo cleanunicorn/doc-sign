@@ -42,3 +42,7 @@ function startApp() {
     // Encode parameters
     // web3js.eth.abi.encodeParameters(['string'], ['gigel']);
 }
+
+// https://github.com/OpenZeppelin/openzeppelin-solidity/blob/9e1da49f235476290d5433dac6807500e18c7251/contracts/ECRecovery.sol
+
+// https://ethereum.stackexchange.com/questions/1777/workflow-on-signing-a-string-with-private-key-followed-by-signature-verificatio
